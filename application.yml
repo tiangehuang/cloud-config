@@ -4,6 +4,7 @@ myblog:
   location: Shenzhen
 github:
   later: new add
-port: 22222
+client:
+  port: 22222
 eureka:
   uri: http://localhost:11111/eureka/
